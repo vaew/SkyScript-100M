@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="all.pdf" alt="showcase">
+  <img src="skyscript.png" alt="showcase">
 </p>
 
 ## Introduction 📖
