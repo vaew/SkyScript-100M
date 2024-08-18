@@ -6,6 +6,7 @@
     <a href='https://github.com/IndexFziQ' target='_blank'><strong>Yuqiang Xie</strong></a><sup> 2†</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=tp2cs2IAAAAJ&hl=zh-CN' target='_blank'><strong>Zeyu Gong</strong></a><sup> 1†</sup>&emsp;
     <a href='https://scholar.google.com.tw/citations?user=RvAuMk0AAAAJ&hl=zh-CN' target='_blank'><strong>Xiang Wen</strong></a><sup> 2</sup>&emsp;
+</div>
 
 <div align='center'>
     <strong>Jiayi Zhang</strong><sup> 2</sup>&emsp;
