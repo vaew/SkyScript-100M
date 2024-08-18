@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="all.pdf" alt="showcase">
-  <br>
 </p>
 
 ## Introduction 📖
