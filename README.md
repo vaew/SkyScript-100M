@@ -2,7 +2,7 @@
 
 <div align='center'>
     <a href='https://github.com/vaew' target='_blank'><strong>Jing Tang</strong></a><sup> 1</sup>&emsp;
-  	<a href='https://www.icst.pku.edu.cn/netvideo/people/ss/240830.htm' target='_blank'><strong>Jiaquan Lu</strong></a><sup> 2</sup>&emsp;
+  	<a href='https://www.icst.pku.edu.cn/netvideo/people/ss/240830.htm' target='_blank'><strong>Quanlu Jia</strong></a><sup> 2</sup>&emsp;
     <a href='https://github.com/IndexFziQ' target='_blank'><strong>Yuqiang Xie</strong></a><sup> 2†</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=tp2cs2IAAAAJ&hl=zh-CN' target='_blank'><strong>Zeyu Gong</strong></a><sup> 1†</sup>&emsp;
     <a href='https://scholar.google.com.tw/citations?user=RvAuMk0AAAAJ&hl=zh-CN' target='_blank'><strong>Xiang Wen</strong></a><sup> 2</sup>&emsp;
