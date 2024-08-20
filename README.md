@@ -46,7 +46,7 @@ If you find SkyScript-100M useful for your research, welcome to 🌟 this repo a
       title={SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama}, 
       author={Jing Tang, Quanlu Jia, Yuqiang Xie, Zeyu Gong, Xiang Wen, Jiayi Zhang, Yalong Guo, Guibin Chen, Jiangping Yang},
       year={2024},
-      eprint={2408.xxxxxx},
+      eprint={2408.09333},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
