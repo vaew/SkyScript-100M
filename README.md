@@ -33,7 +33,7 @@ Generating high-quality shooting scripts containing information such as scene an
 
 🔥 [SkyReels](https://skyreels.ai/) built on our dataset is available!
 
-📖 [Technical Report](https://arxiv.org/abs/2408.09333) is available!
+📖 [Technical Report](https://arxiv.org/abs/2408.09333v2) is available!
 
 ## Acknowledgements 💐
 
@@ -48,7 +48,7 @@ If you find SkyScript-100M useful for your research, welcome to 🌟 this repo a
       title={SkyScript-100M: 1,000,000,000 Pairs of Scripts and Shooting Scripts for Short Drama}, 
       author={Jing Tang, Quanlu Jia, Yuqiang Xie, Zeyu Gong, Xiang Wen, Jiayi Zhang, Yalong Guo, Guibin Chen, Jiangping Yang},
       year={2024},
-      eprint={2408.09333},
+      eprint={2408.09333v2},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
