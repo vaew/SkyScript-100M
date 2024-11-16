@@ -1,0 +1,1036 @@
+{
+    "Case_1": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Pop",
+            "Romantic",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant. The table is set with food and drinks, including a steak, fries, salad, and a glass of wine. The background features other tables, chairs, and some decor.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short black hair and is wearing a black jacket with a fur collar over a black shirt and a patterned tie.",
+                "Emotion": "happy",
+                "Actions": "sitting at the table, holding a glass of wine",
+                "Continuous Emotion": {
+                    "Valence (V)": 8,
+                    "Arousal (A)": 6,
+                    "Dominance (D)": 7
+                },
+                "Temperament": "friendly and relaxed",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A white tablecloth covers the table, which is set with plates of food including steak, fries, salad, and a bowl of soup. There is also a glass of wine on the table.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "food",
+                "Description": "The food includes a steak, fries, salad, and a bowl of soup. There is also a glass of wine on the table.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "glass of wine",
+                "Description": "A glass of white wine is being held by the person.",
+                "Shot Type": "Close-Up"
+            }
+        ]
+    },
+    "Case_2": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Pop",
+            "Romantic",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant. The table is set with food and drinks, including a steak, fries, salad, and a glass of wine. The background features blurred restaurant elements such as lights, plants, and possibly other diners.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "Short hair, wearing a black shirt and a black fur coat, along with a dark patterned tie.",
+                "Emotion": "worried or concerned",
+                "Actions": "The person is sitting at the table, holding a fork and appears to be engaged in a conversation.",
+                "Continuous Emotion": {
+                    "Valence (V)": 3,
+                    "Arousal (A)": 5,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "serious and contemplative",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A white tablecloth covers the table, which is set with various dishes including a steak, fries, salad, and a glass of wine.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "wine glass",
+                "Description": "A clear wine glass with a stem, filled with a light-colored liquid, possibly wine.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "dishes",
+                "Description": "The table has multiple dishes including a plate with steak and fries, a bowl with salad, and a smaller bowl with a sauce.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_3": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Pop",
+            "Romantic",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes tables, chairs, a glass of wine, a plate of food, and background decorations such as plants and ambient lighting.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long dark hair, is wearing a light blue off-shoulder top, and has dangling earrings.",
+                "Emotion": "Regretful",
+                "Actions": "The person is sitting at a table, possibly engaged in a conversation.",
+                "Continuous Emotion": {
+                    "Valence (V)": 3,
+                    "Arousal (A)": 4,
+                    "Dominance (D)": 3
+                },
+                "Temperament": "Reflective and thoughtful.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            }
+        ],
+        "objects": [
+            {
+                "object": "glass of wine",
+                "Description": "A glass of wine is placed on the table in front of the person.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "plate of food",
+                "Description": "A plate of food, possibly pasta, is on the table in front of the person.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and set with various dining items.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "chair",
+                "Description": "The person is seated on a chair, which is partially visible.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "plants",
+                "Description": "Background plants and other decorations are visible, contributing to the ambiance of the setting.",
+                "Shot Type": "Background"
+            }
+        ]
+    },
+    "Case_4": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Pop",
+            "Romantic",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a bar or restaurant. Background includes shelves with bottles, possibly a counter, and ambient lighting.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "Long black hair, wearing a light blue off-shoulder blouse, holding a black fur coat in hand.",
+                "Emotion": "neutral",
+                "Actions": "holding a black coat or jacket",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 6,
+                    "Dominance (D)": 5
+                },
+                "Temperament": "Secretly delighted.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            }
+        ],
+        "objects": [
+            {
+                "object": "bottles",
+                "Description": "Shelves in the background with various bottles, likely containing alcohol or other beverages.",
+                "Shot Type": "Background"
+            },
+            {
+                "object": "coat or jacket",
+                "Description": "A black coat or jacket being held by the person.",
+                "Shot Type": "Foreground"
+            }
+        ]
+    },
+    "Case_5": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a bar or restaurant. Background includes shelves with bottles and glasses, indicating a setting where drinks are served.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "Long dark hair, wearing a light blue off-shoulder top.",
+                "Emotion": "Acting coquettishly",
+                "Actions": "Standing and holding a fur coat.",
+                "Continuous Emotion": {
+                    "Valence (V)": "6",
+                    "Arousal (A)": "7",
+                    "Dominance (D)": "6"
+                },
+                "Temperament": "Sensitive",
+                "Facial Attractiveness": "4",
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "Short dark hair, wearing a dark jacket.",
+                "Emotion": "Concerned",
+                "Actions": "Listening",
+                "Continuous Emotion": {
+                    "Valence (V)": "5",
+                    "Arousal (A)": "4",
+                    "Dominance (D)": "4"
+                },
+                "Temperament": "Caring",
+                "Facial Attractiveness": "3",
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "bottles",
+                "Description": "Shelves with various bottles and glasses in the background.",
+                "Shot Type": "Background"
+            },
+            {
+                "object": "glass",
+                "Description": "A glass can be seen on the table in front of the man.",
+                "Shot Type": "Foreground"
+            }
+        ]
+    },
+    "Case_6": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes a table with plates and utensils, indicating a meal has taken place or is in progress.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short black hair and is wearing a black shirt. He has a watch on his left wrist.",
+                "Emotion": "surprised",
+                "Actions": "sitting at a table, looking up",
+                "Continuous Emotion": {
+                    "Valence (V)": 6,
+                    "Arousal (A)": 7,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "curious and attentive",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long dark hair and is wearing a blue top. Only part of her is visible.",
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A wooden table with a white tablecloth, plates, and utensils.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "plate",
+                "Description": "A white plate with remnants of food, indicating a meal has taken place.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "utensils",
+                "Description": "A fork and knife are placed on the table.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_7": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a bar or restaurant. The background shows shelves with bottles and glasses, indicating a setting where drinks are served.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long, dark hair and is wearing a light blue, off-shoulder top. She is also wearing earrings.",
+                "Emotion": "The person appears to be concerned or slightly distressed.",
+                "Actions": "Standing and holding a fur coat.",
+                "Continuous Emotion": {
+                    "Valence (V)": "5",
+                    "Arousal (A)": "6",
+                    "Dominance (D)": "4"
+                },
+                "Temperament": "She seems thoughtful and somewhat cautious.",
+                "Facial Attractiveness": "4",
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short, dark hair and is wearing a dark suit with a tie.",
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "bottles",
+                "Description": "Various bottles are arranged on shelves in the background.",
+                "Shot Type": "Background"
+            },
+            {
+                "object": "glasses",
+                "Description": "Glasses are placed on the shelves in the background.",
+                "Shot Type": "Background"
+            }
+        ]
+    },
+    "Case_8": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes a table with plates and utensils, a person sitting at the table, and a blurred background that suggests an indoor environment with wooden elements and possibly other patrons.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short black hair and is wearing a black shirt. He is also wearing a watch on his left wrist.",
+                "Emotion": "neutral",
+                "Actions": "sitting at the table",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 6,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "calm and composed",
+                "Facial Attractiveness": 3,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A wooden table with a white tablecloth. There are plates, utensils, and possibly remnants of a meal on the table.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "watch",
+                "Description": "A silver watch with a large face, worn on the person's left wrist.",
+                "Shot Type": "Close-up"
+            }
+        ]
+    },
+    "Case_9": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a dining area or restaurant. The setting includes a table with food remnants, chopsticks, and a plate. The background is dimly lit with some blurry elements, suggesting a cozy or intimate atmosphere.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "Short black hair, wearing a dark-colored shirt.",
+                "Emotion": "surprised",
+                "Actions": "sitting",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 6,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "curious and attentive",
+                "Facial Attractiveness": 3,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A dining table with a beige tablecloth, remnants of food, chopsticks, and a plate.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_10": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The scene includes a table with a plate of food, a glass of water, and some decor in the background.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long dark hair and is wearing a light blue top with an off-shoulder design. She has earrings and is wearing makeup.",
+                "Emotion": "The person appears to be engaged in conversation, with a slightly serious or inquisitive expression.",
+                "Actions": "The person is sitting at the table and facing another person.",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 4,
+                    "Dominance (D)": 5
+                },
+                "Temperament": "The person seems to be thoughtful and attentive.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person is partially visible and is wearing a dark-colored jacket.",
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "A table with a white tablecloth, set with a plate of food, a fork, and a glass of water.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "food",
+                "Description": "The plate includes pasta and some other food items.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "glass",
+                "Description": "A glass of water on the table.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_11": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or cafe. The setting includes tables, chairs, plates with food, and a glass of water. The background shows a counter and some decorations, indicating a casual dining environment.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short black hair, is wearing a black shirt with a patterned tie, and has a neutral expression.",
+                "Emotion": "neutral",
+                "Actions": "The person is sitting at a table and appears to be engaged in a conversation, holding a fork and knife.",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 3,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "calm and composed",
+                "Facial Attractiveness": 3,
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "plate",
+                "Description": "The plate contains a steak, french fries, and some vegetables.",
+                "Shot Type": "Close-up"
+            },
+            {
+                "object": "glass",
+                "Description": "A clear glass of water is placed on the table.",
+                "Shot Type": "Close-up"
+            },
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_12": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Electronic",
+            "Cheerful",
+            "Medium Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The table is set with plates of food, and there are blurred background elements suggesting a dining setting with plants and possibly other patrons.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The woman has long dark hair, fair skin, and is wearing a light blue off-shoulder top. She is holding a wine glass and has long earrings.",
+                "Emotion": "happy",
+                "Actions": "sitting and holding a wine glass",
+                "Continuous Emotion": {
+                    "Valence (V)": 8,
+                    "Arousal (A)": 5,
+                    "Dominance (D)": 7
+                },
+                "Temperament": "elegant and sociable",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The man is wearing a dark-colored shirt, sitting across from the woman.",
+                "Shot Type": "Full Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "wine glass",
+                "Description": "The woman is holding a clear wine glass filled with a light-colored liquid, likely wine.",
+                "Shot Type": "Close-Up"
+            },
+            {
+                "object": "plate of food",
+                "Description": "The plate in front of the woman contains pasta and possibly some other food items.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and has plates of food and a wine glass on it.",
+                "Shot Type": "Full Shot"
+            }
+        ]
+    },
+    "Case_13": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Classical",
+            "Cheerful",
+            "Fast Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes a table with a plate of food, a glass of wine, and some blurred background elements like plants and windows.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long black hair, fair skin, and is wearing a light blue off-shoulder top with dangling earrings.",
+                "Emotion": "The person appears to be in a calm or slightly contemplative state.",
+                "Actions": "The person is holding a glass of wine and seems to be interacting with someone across the table.",
+                "Continuous Emotion": {
+                    "Valence (V)": 6,
+                    "Arousal (A)": 4,
+                    "Dominance (D)": 5
+                },
+                "Temperament": "The person seems gentle and composed.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and has a plate with food and a fork on it.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "wine glass",
+                "Description": "The wine glass is being held by the person and contains a yellowish liquid, presumably wine.",
+                "Shot Type": "Close-Up"
+            },
+            {
+                "object": "plate",
+                "Description": "The plate contains a serving of food, possibly pasta with a tomato-based sauce and some fried items.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "fork",
+                "Description": "The fork is placed on the table next to the plate.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_14": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Classical",
+            "Cheerful",
+            "Fast Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The scene includes a table with a plate of food, a glass of wine, and a woman sitting across from another person.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The woman has long black hair and is wearing a light blue dress with off-the-shoulder sleeves. She is also wearing long earrings.",
+                "Emotion": "relaxed and content",
+                "Actions": "The woman is holding a glass of wine and appears to be drinking or smelling it.",
+                "Continuous Emotion": {
+                    "Valence (V)": 8,
+                    "Arousal (A)": 5,
+                    "Dominance (D)": 7
+                },
+                "Temperament": "gentle and elegant",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The man is wearing a dark jacket and is seated across from the woman.",
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "wine glass",
+                "Description": "The wine glass is being held by the woman and contains a yellowish liquid, presumably wine.",
+                "Shot Type": "Close-Up"
+            },
+            {
+                "object": "plate of food",
+                "Description": "The plate contains a meal with some yellow and orange food items, possibly pasta or vegetables.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and has a plate of food and a glass of wine on it.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_15": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Classical",
+            "Cheerful",
+            "Fast Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The background includes tables, chairs, and some plants, creating a cozy and intimate atmosphere.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The woman has long, dark hair and is wearing a light blue dress with earrings. She has a gentle and elegant appearance.",
+                "Emotion": "The woman appears to be in a relaxed and content mood.",
+                "Actions": "She is holding a wine glass and looking at the person across the table.",
+                "Continuous Emotion": {
+                    "Valence (V)": 8,
+                    "Arousal (A)": 4,
+                    "Dominance (D)": 5
+                },
+                "Temperament": "Gentle and elegant.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The man has short hair and is wearing a dark shirt. His appearance is not fully visible due to the camera angle.",
+                "Shot Type": "Medium Shot",
+                "Line": "Yeah, it's so tiring to keep spending money. I have a whole truckload of these, I just change them when they get dirty. If you like this one, I'll give it to you. So, what brings you to see me? Did Zhao Yan know you were coming? Ah, when was that? Hey, you should sit back down. Ah, sit back down. Sit back down. I guess so. Not much, just 5 billion. But, I've already spent 300 million, what's the big deal, there are still hundreds of billions waiting for me to inherit. However, to get this money directly, there are conditions."
+            }
+        ],
+        "objects": [
+            {
+                "object": "wine glass",
+                "Description": "The woman is holding a clear wine glass with some liquid in it.",
+                "Shot Type": "Close-up"
+            },
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and has some food items on it.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "food items",
+                "Description": "The food items are partially visible on the table, including what appears to be a plate with some food.",
+                "Shot Type": "Medium Shot"
+            }
+        ]
+    },
+    "Case_16": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Classical",
+            "Cheerful",
+            "Fast Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes a table with a plate of food, utensils, and a person sitting opposite the main subject. The background is blurred with hints of indoor decor and lighting.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long, dark hair and is wearing a light blue top. She is wearing subtle makeup and earrings.",
+                "Emotion": "The person appears to be surprised or concerned.",
+                "Actions": "She is holding her hand near her face, possibly indicating she is in the middle of a conversation or reacting to something.",
+                "Continuous Emotion": {
+                    "Valence (V)": 3,
+                    "Arousal (A)": 6,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "The person seems to be expressive and engaged.",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Close-Up",
+                "Line": "Keming, you've been busy lately, haven't you? I'm really happy that you still want to see me. It was all my fault before, treating you that way. Actually, it was all for your own good. My previous spending was just too much, I didn't want to burden you too much, so I proposed to break up. Are you hot? Let me help you take off your fur coat. I remember you weren't wearing this one before. I miss you, is that not allowed? We broke up. After the last car show, I felt he treated you too badly, so I had a big fight with him and broke up. Where did you get the money from? Weren't you raised in an orphanage? Found my family. How much did they give you? What are the conditions?"
+            }
+        ],
+        "objects": [
+            {
+                "object": "plate",
+                "Description": "The plate contains food items, including pasta and possibly other dishes, with a fork resting on it.",
+                "Shot Type": "Close-Up"
+            },
+            {
+                "object": "table",
+                "Description": "The table is set with a plate of food, utensils, and possibly other dining items.",
+                "Shot Type": "Close-Up"
+            }
+        ]
+    },
+    "Case_17": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Rock",
+            "Suspenseful",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or cafe. The setting includes tables, chairs, a plate of food, and some background decorations.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The man has short black hair and is wearing a black shirt with a patterned tie.",
+                "Emotion": "neutral",
+                "Actions": "The man is sitting at a table and appears to be engaged in a conversation.",
+                "Continuous Emotion": {
+                    "Valence (V)": 5,
+                    "Arousal (A)": 3,
+                    "Dominance (D)": 6
+                },
+                "Temperament": "calm and composed",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "Waiter, bring me some pickles, this dish is too sweet. Why are you suddenly so interested in me lately, have you discovered my charm? Unfortunately, the flower has intent but the water has no feeling, we have missed each other. Xiaowan, we're just having a meal. Xiaowan, there are some things that are not convenient to tell you now. But you can trust me. Xiaowan."
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The woman has long dark hair and is wearing a blue top.",
+                "Shot Type": "Medium Shot",
+                "Line": "What conditions? Tell me the conditions. Have you discovered your charm. Oh, feeling flustered. Keming, she looks so fierce, not at all considerate. Do you believe that yourself? Does the Earth stop spinning without you? Keming, you can spend your own money however you want. Who are you to care? Keming."
+            }
+        ],
+        "objects": [
+            {
+                "object": "plate of food",
+                "Description": "The plate includes a piece of meat, french fries, a small salad, and a dipping sauce.",
+                "Shot Type": "Close-Up"
+            },
+            {
+                "object": "chopsticks",
+                "Description": "The chopsticks are placed on the table next to the plate.",
+                "Shot Type": "Close-Up"
+            }
+        ]
+    },
+    "Case_18": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Rock",
+            "Suspenseful",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The scene includes a table with a plate of food, a glass of water, and some decorations in the background.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "Long black hair, wearing a blue off-shoulder top and silver earrings.",
+                "Emotion": "Curious",
+                "Actions": "eating",
+                "Continuous Emotion": {
+                    "Valence (V)": "3",
+                    "Arousal (A)": "6",
+                    "Dominance (D)": "4"
+                },
+                "Temperament": "Probing and focused",
+                "Facial Attractiveness": "4",
+                "Shot Type": "Medium Shot",
+                "Line": "What conditions? Tell me the conditions. Have you discovered your charm. Oh, feeling flustered. Keming, she looks so fierce, not at all considerate. Do you believe that yourself? Does the Earth stop spinning without you? Keming, you can spend your own money however you want. Who are you to care? Keming."
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "Short black hair, wearing a black shirt.",
+                "Shot Type": "Medium Shot",
+                "Line": "Waiter, bring me some pickles, this dish is too sweet. Why are you suddenly so interested in me lately, have you discovered my charm? Unfortunately, the flower has intent but the water has no feeling, we have missed each other. Xiaowan, we're just having a meal. Xiaowan, there are some things that are not convenient to tell you now. But you can trust me. Xiaowan."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "White tablecloth, plate with food, glass of water, and a knife on the table.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "plant",
+                "Description": "Green plant in the background.",
+                "Shot Type": "Background"
+            }
+        ]
+    },
+    "Case_19": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Rock",
+            "Suspenseful",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The scene includes a table with a plate of food, a glass of water, and some blurred background elements like plants and windows.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "female",
+                "Looks": "The person has long dark hair, fair skin, and is wearing a light blue off-shoulder top with long sleeves. She has silver dangling earrings and red lipstick.",
+                "Emotion": "surprised",
+                "Actions": "sitting at the table with her hands clasped together near her chest",
+                "Continuous Emotion": {
+                    "Valence (V)": 6,
+                    "Arousal (A)": 8,
+                    "Dominance (D)": 4
+                },
+                "Temperament": "expressive and animated",
+                "Facial Attractiveness": 4,
+                "Shot Type": "Medium Shot",
+                "Line": "What conditions? Tell me the conditions. Have you discovered your charm. Oh, feeling flustered. Keming, she looks so fierce, not at all considerate. Do you believe that yourself? Does the Earth stop spinning without you? Keming, you can spend your own money however you want. Who are you to care? Keming."
+            },
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "The person has short hair and is wearing a dark-colored jacket.",
+                "Shot Type": "Medium Shot",
+                "Line": "Waiter, bring me some pickles, this dish is too sweet. Why are you suddenly so interested in me lately, have you discovered my charm? Unfortunately, the flower has intent but the water has no feeling, we have missed each other. Xiaowan, we're just having a meal. Xiaowan, there are some things that are not convenient to tell you now. But you can trust me. Xiaowan."
+            }
+        ],
+        "objects": [
+            {
+                "object": "table",
+                "Description": "The table is covered with a white tablecloth and has a plate of food with noodles and fries, a glass of water, and a fork on it.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "plant",
+                "Description": "A blurred plant in the background, adding to the indoor ambiance.",
+                "Shot Type": "Background"
+            }
+        ]
+    },
+    "Case_20": {
+        "Scene": [
+            "1",
+            "Quiet Western Restaurant"
+        ],
+        "BGM": [
+            "True",
+            "Rock",
+            "Suspenseful",
+            "Slow Tempo"
+        ],
+        "Scene Description": "Indoors, likely a restaurant or dining area. The setting includes tables, chairs, and a plate of food with fries and a steak. The background has some blurred elements such as a flower vase and possibly a menu board.",
+        "people": [
+            {
+                "object": "person",
+                "Age": "adult",
+                "Gender": "male",
+                "Looks": "Short dark hair, wearing a black shirt and a patterned tie.",
+                "Emotion": "surprised",
+                "Actions": "Sitting at a table, holding a fork.",
+                "Continuous Emotion": {
+                    "Valence (V)": "6",
+                    "Arousal (A)": "7",
+                    "Dominance (D)": "4"
+                },
+                "Temperament": "curious and attentive",
+                "Facial Attractiveness": "4",
+                "Shot Type": "Medium Shot",
+                "Line": "Waiter, bring me some pickles, this dish is too sweet. Why are you suddenly so interested in me lately, have you discovered my charm? Unfortunately, the flower has intent but the water has no feeling, we have missed each other. Xiaowan, we're just having a meal. Xiaowan, there are some things that are not convenient to tell you now. But you can trust me. Xiaowan."
+            }
+        ],
+        "objects": [
+            {
+                "object": "food",
+                "Description": "A plate of food including fries, a steak, and some vegetables.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "table",
+                "Description": "A dining table where the person is seated.",
+                "Shot Type": "Medium Shot"
+            },
+            {
+                "object": "vase",
+                "Description": "A vase with flowers, located in the background.",
+                "Shot Type": "Background"
+            }
+        ]
+    }
+}
